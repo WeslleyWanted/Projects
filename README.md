@@ -1,2 +1,2 @@
-# Projects
+# projects
 Este é o README
